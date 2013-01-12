@@ -1,0 +1,90 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Launcher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GuiEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StartupScript" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cd c:\home;
+$env:PsModulePath += ";c:\home\modules";
+Import-Module Launcher;
+</Value>
+    </Setting>
+    <Setting Name="CustomCmd1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd7" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel7" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd8" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel8" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd9" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel9" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmd10" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomCmdLabel10" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BrowserUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.ethz.ch/</Value>
+    </Setting>
+    <Setting Name="NotificationText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Please come to the counter window</Value>
+    </Setting>
+    <Setting Name="WaitFormText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Please wait`nBitte Warten</Value>
+    </Setting>
+    <Setting Name="WorkingDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\home</Value>
+    </Setting>
+    <Setting Name="Endpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:8000/PowerShellTunnel/Host1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
